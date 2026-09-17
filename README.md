@@ -58,7 +58,8 @@ $$z_{t}^{out} = \mathcal{D}_{\theta}^{SA,NCA}(z_{t}^{mix}, t, \tau_{\theta}(c_{\
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/eb975fb5-939b-4541-b313-788afd9fed73" />
 
 * Quantitative results.
-<img width="1022" height="351" alt="image" src="https://github.com/user-attachments/assets/5368beef-5879-4541-a85a-db4b97e9dc5d" />
+<img width="951" height="322" alt="image" src="https://github.com/user-attachments/assets/00d5ddbd-0550-4132-b398-6ab5c2fda171" />
+
 
 <img width="573" height="183" alt="image" src="https://github.com/user-attachments/assets/b9723f8a-8032-402e-a4ca-a3162f8d6436" />
 
